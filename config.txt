@@ -1,0 +1,15 @@
+0/0/1:eclairage Chambre 1
+0/0/2:eclairage séjour cote fenetre
+0/0/3:eclairage chambre 1 lit
+0/0/4:eclairage sejour centre
+0/0/5:eclairage salle de bain
+0/0/6:eclairage salle de bain la vabo
+0/0/7:eclairage cuisine
+0/0/8:eclairage salle à manger
+0/0/9:eclairage couloir
+0/0/10:eclairage couloir technique
+0/0/11:PC séjour
+0/0/12:PC chambre
+0/0/13:PC Hotte
+0/0/14:PC Plaque
+0/0/23:coupure eclairage
